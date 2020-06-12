@@ -54,5 +54,7 @@ class Owner
     "I am a #{species}."
   end
 
+def list_pets
+    "I have #{pets
 
     
