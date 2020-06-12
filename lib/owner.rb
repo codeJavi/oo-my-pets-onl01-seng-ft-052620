@@ -18,5 +18,5 @@ class Owner
   def initialize(species)
     @species = species
     OWNERS << self
-    @pets =
+    @pets = {
     
